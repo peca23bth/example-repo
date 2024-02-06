@@ -1,11 +1,11 @@
 ---
 Title: Home
-Description: This is our index page.
+Description: Beskrivning av mig.
 ---
 
-Home page
+Om mig
 ==========================
 
-The source for this page is in `content/index.md`.
+Jag heter Peter och studerar på BTH. Jag bor i Enköping och på min fritid så spelar jag mycket beachvolleyboll. Annars är ett stort intresse segling och jag har tidigare seglat över atlanten.
 
-This is a sample home page written in markdown with some frontmatter defined.
+![Profilbild](assets/img/me.jpg)
